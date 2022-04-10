@@ -1,6 +1,12 @@
 # new a.py file
 
 def main():
-   print('wiP)'
+	# this is bad
+	# more line
+
+	# more
  
 
+#AAA
+#AAA
+#AAA
