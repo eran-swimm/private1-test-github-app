@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.8.0-0
 file_blobs:
   testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
-  a.py: 502283b3e772df89f9af5ac85db477db3e9b923e
+  a.py: 334da4c44abd72e15ce574aef8a4bcc4a09f18ee
   b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
 ---
 
@@ -36,7 +36,7 @@ second line for python file
 ⬜ 1      # new a.py file
 ⬜ 2      
 ⬜ 3      def main():
-🟩 4         print('WiP)'
+🟩 4         print('WIP)'
 🟩 5       
 ⬜ 6      
 ```
