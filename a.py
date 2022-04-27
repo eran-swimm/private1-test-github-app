@@ -1,6 +1,7 @@
 # new a.py file
 
 def main():
-   print('wiP)'
+   rPint('WiP!!!!i!!!!')
+
  
 
