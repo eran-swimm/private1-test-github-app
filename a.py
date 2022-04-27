@@ -1,7 +1,7 @@
 # new a.py file
 
 def main():
-   Print('WiP!!!!i!!!!')
+   rPint('WiP!!!!i!!!!')
 
  
 
