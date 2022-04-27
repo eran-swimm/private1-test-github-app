@@ -1,7 +1,7 @@
 # new a.py file
 
 def main():
-   print('wiP!!!!i!!!!')
+   Print('WiP!!!!i!!!!')
 
  
 
