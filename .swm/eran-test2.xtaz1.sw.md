@@ -2,10 +2,10 @@
 id: xtaz1
 name: eran test2
 file_version: 1.0.2
-app_version: 0.7.6-1
+app_version: 0.8.3-0
 file_blobs:
-  b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
-  testFile.md: e7c836472304b8f89ec0c0accfaa1c76414bb7c9
+  b.py: 279c8fb2971084657b7584bef94ae61c9805448c
+  testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
 ---
 
 this is the if part
@@ -15,7 +15,7 @@ this is the if part
 ⬜ 2      
 ⬜ 3      def foo(a):
 ⬜ 4      	print("This is the function foo")
-🟩 5      	if a > 6:
+🟩 5      	if a > 7:
 🟩 6      		print("a is bigger")
 ⬜ 7      	else:
 ⬜ 8      		print("a is SmalleR")
@@ -38,9 +38,8 @@ another snippet
 🟩 13     removed the lines
 🟩 14     and wrote something new
 🟩 15     who
-⬜ 16     
+⬜ 16     clean file
 ⬜ 17     
-⬜ 18     
 ```
 
 <br/>
