@@ -8,7 +8,3 @@ def main():
 # cccc
 # dddd
 # eeee
-# ffff
-# gggg
-# hhhh
-# gggg
