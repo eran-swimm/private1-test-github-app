@@ -1,12 +1,1 @@
-# new a.py file
-
-def main():
-   print('wiP)'
- 
-# aaaa
-# bbbb
-# cccccaaa
-aaa
 aaaa
-ccc
-         
