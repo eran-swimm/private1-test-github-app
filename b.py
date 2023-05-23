@@ -8,3 +8,4 @@ def foo(a):
 		print("a is SmalleR")
 # aaabbbccc
 # d
+aaa
